@@ -23,6 +23,6 @@
 <hr>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xyuhkix&show_icons=true&include_all_commits=true&theme=dracula" alt="xyuhkix's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyuhkix&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lxke62x&show_icons=true&include_all_commits=true&theme=dracula" alt="Lxke62's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxke62&layout=compact&theme=dracula" />
 </p>
